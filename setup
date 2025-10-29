@@ -1,0 +1,4 @@
+mkdir role-based-access
+cd role-based-access
+npm init -y
+npm install express jsonwebtoken dotenv body-parser
